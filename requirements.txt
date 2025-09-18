@@ -2,10 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib
-network
 scikit-learn
 networkx
 scipy
 Pillow
-mpl_toolkits.mplot3d
-io
+plotly
